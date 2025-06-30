@@ -1,4 +1,4 @@
-name: CI
+name: Rdp
 
 on: [push, workflow_dispatch]
 
